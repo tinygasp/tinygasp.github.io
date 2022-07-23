@@ -129,11 +129,6 @@ body {
   font-size: 17px;
 }
 
-.active {
-  background-color: #6247AA;
-  color: white;
-}
-
 .topnav .icon {
   display: none;
 }
